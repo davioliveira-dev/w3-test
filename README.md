@@ -70,7 +70,7 @@ As tarefas concluídas são exibidas com um estilo diferente.
 Clone o repositório do projeto:
 
 ```bash
-git clone [<URL_DO_REPOSITORIO>](https://github.com/davioliveira-dev/w3-test)
+git clone https://github.com/davioliveira-dev/w3-test
 ```
 
 Instale as dependências do projeto:

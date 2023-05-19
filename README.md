@@ -128,7 +128,7 @@ npm run test
 Os testes serão executados e os resultados serão exibidos no console.
 
 ### Conclusão
-O projeto foi desenvolvido dentro do prazo estabelecido, iniciando na quarta-feira à noite e finalizando na sexta-feira à noite. 
+O projeto foi desenvolvido dentro do prazo estabelecido, iniciando na quarta-feira à noite (16/05) e finalizando na sexta-feira (19/05).
 Durante esse período, foram implementadas as funcionalidades solicitadas, criados os testes necessários e seguidos os princípios da Arquitetura Limpa para garantir a qualidade e a organização do código.
 
 Caso eu tivesse mais detalhes, poderia ter implementado uma melhor arquitetura e UI no frontend e escrito testes automatizados para as funcionalidades utilizadas.
